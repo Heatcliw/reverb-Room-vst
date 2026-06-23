@@ -1,0 +1,11 @@
+[package]
+name = "room_reverb_vst"
+version = "0.3.0"
+edition = "2024"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+nih_plug = { git = "https://github.com/robbert-vdh/nih-plug", features = ["vst3"]  }
+nih_plug_egui = { git = "https://github.com/robbert-vdh/nih-plug"}
