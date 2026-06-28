@@ -1,0 +1,1 @@
+C:\Users\i\repo\revRoom\reverb-Room-vst\target\release\room_reverb_vst.dll: C:\Users\i\repo\revRoom\reverb-Room-vst\src\assets\NotoSansJP-Regular.otf C:\Users\i\repo\revRoom\reverb-Room-vst\src\engine.rs C:\Users\i\repo\revRoom\reverb-Room-vst\src\lib.rs C:\Users\i\repo\revRoom\reverb-Room-vst\src\roomsetting.rs
