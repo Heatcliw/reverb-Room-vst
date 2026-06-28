@@ -1,6 +1,6 @@
 [package]
 name = "room_reverb_vst"
-version = "0.3.0"
+version = "0.40b"
 edition = "2024"
 
 [lib]
